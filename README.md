@@ -12,7 +12,7 @@ If you want to find out more or reach out to me, feel free to do it via my [Link
 ### Main technologies and tools
 
 <img align="left" alt="Python" width="28px" src="https://user-images.githubusercontent.com/16157837/97801093-921d3280-1c3a-11eb-93a2-435243b03231.png" />
-<img align="left" alt="Django" width="28px" src="https://user-images.githubusercontent.com/16157837/97801099-934e5f80-1c3a-11eb-8ace-a29a37900b58.png" />
+<img align="left" alt="Django" width="28px" src="https://user-images.githubusercontent.com/16157837/97803230-fd6e0100-1c48-11eb-886e-8436721c21b1.png" />
 <img align="left" alt="PostgreSQL" width="28px" src="https://user-images.githubusercontent.com/16157837/97801509-97c84780-1c3d-11eb-8f75-67bcfe4db163.png" />
 <img align="left" alt="HTML5" width="28px" src="https://user-images.githubusercontent.com/16157837/97802052-2be7de00-1c41-11eb-876c-d1efe531d77c.png" />
 <img align="left" alt="JavaScript" width="28px" src="https://user-images.githubusercontent.com/16157837/97801102-93e6f600-1c3a-11eb-9088-876a3addce97.png" />
