@@ -1,8 +1,10 @@
 ### Howdy :wave: :nerd_face:
 
-My name is Paweł and I'm a software engineer specializing in Python and JavaScript, but I'm open to learning new things and constantly try to expand my knowledge. I love the Open Source idea and whenever I have some spare time to do more coding I try to contribute to various projects, but usually related to the Django ecosystem.
+My name is **Paweł** and I'm a software engineer specializing in **Python** and **JavaScript**, but I'm open to learning new things and constantly try to expand my knowledge in multiple areas. I love the Open Source idea and whenever I have some spare time to do more coding I try to contribute to various projects, usually related to the **Django** ecosystem.
 
-My main goal is to create functionalities that work very efficiently and are backed by a solid test coverage, but also written in an idiomatic and understandable way. Likewise if I see that something could be simplified or improved in terms of performance or code quality, I don't hesitate to outline a better solution and propose it to my colleagues.
+My main goal is to create functionalities that work very efficiently and are backed by a solid test coverage, but also written in an idiomatic and understandable way. Likewise if I see that something could be simplified or improved in terms of performance or code quality, I don't hesitate to outline a better solution and propose it to my colleagues or take part in discussions if it's a public project.
+
+When I'm not coding you can probably find me working out, hanging out with friends, playing a video game occasionally or watching astronomical documentaries. Oh, and I'm also a guitar procrastinator :guitar:.
 
 If you want to find out more or reach out to me, feel free to do it via my [LinkedIn profile](https://www.linkedin.com/in/pawzar/).
 
